@@ -1,0 +1,76 @@
+[
+  {
+    "tphp": {
+      "store": "The Pop Hunter PH",
+      "loc": "greenhills",
+      "desc": "We'll find your next pop!",
+      "items": [
+        {
+          "shop": "pophunterph",
+          "upc": "889699849369",
+          "title": "Funko Pop! Disney: Pixar Alien Remix - Alien as Russel Vinyl Figure Multicolor",
+          "img": "https://m.media-amazon.com/images/I/41jgcuT1gpL._SL500_._SL150_.jpg",
+          "qty": 1
+        },
+        {
+          "shop": "pophunterph",
+          "upc": "889698249720",
+          "title": "Funko Pop Heroes: Wonder Woman - Etta w/ Sword & Shield Collectible Vinyl Figure",
+          "img": "https://images-na.ssl-images-amazon.com/images/I/41ALsI2k9PL._SL150_.jpg",
+          "qty": 1
+        },
+        {
+          "shop": "pophunterph",
+          "upc": "849803044718",
+          "title": "Funko POP Marvel: Classic X-Men - Mystique Action Figure",
+          "img": "https://m.media-amazon.com/images/I/51E45+No7BL._SL500_._SL150_.jpg",
+          "qty": 1
+        },
+        {
+          "shop": "pophunterph",
+          "upc": "889698373920",
+          "title": "Funko Pop! Disney: Toy Story 4 - Alien, Multicolor",
+          "img": "https://images-na.ssl-images-amazon.com/images/I/31tnBDtKIRL._SL150_.jpg",
+          "qty": 1
+        },
+        {
+          "shop": "pophunterph",
+          "upc": "889698490146",
+          "title": "Funko POP Animation: Demon Slayer - Muzan Kibutsuji,Multicolor",
+          "img": "https://images.barcodespider.com/upcimage/889698490146.jpg",
+          "qty": 1
+        }
+      ]
+    }
+  },
+  {
+    "rngk": {
+      "store": "Rongki",
+      "loc": "quezon city",
+      "desc": "Matik!",
+      "items": [
+        {
+          "shop": "rongki",
+          "upc": "889698490108",
+          "title": "Funko POP Animation: Demon Slayer- Tanjiro Kamado, Multicolor",
+          "img": "https://m.media-amazon.com/images/I/41KZVKpCa8S._SL500_._SL150_.jpg",
+          "qty": 1
+        },
+        {
+          "shop": "rongki",
+          "upc": "889698125352",
+          "title": "Funko POP! Movies: John Wick - John Wick (Styles May Vary)",
+          "img": "https://images-na.ssl-images-amazon.com/images/I/41loC1TJkPL._SL150_.jpg",
+          "qty": 1
+        },
+        {
+          "shop": "rongki",
+          "upc": "889698490146",
+          "title": "Funko POP Animation: Demon Slayer - Muzan Kibutsuji,Multicolor",
+          "img": "https://images.barcodespider.com/upcimage/889698490146.jpg",
+          "qty": 3
+        }
+      ]
+    }
+  }
+]
